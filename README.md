@@ -28,6 +28,13 @@ You can download FB15K and WN18 from [[Download]](https://github.com/thunlp/Fast
 
 bash make.sh
 
+# environment 
+Python 2.7
+
+pip install Tensorflow
+
+I suggest using Anaconda management
+
 # Train
 
 To train models based on random initialization:
