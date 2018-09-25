@@ -28,7 +28,7 @@ You can download FB15K and WN18 from [[Download]](https://github.com/thunlp/Fast
 
 bash make.sh
 
-# environment 
+# Environment 
 Python 2.7
 
 pip install Tensorflow
